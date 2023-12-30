@@ -6,6 +6,7 @@ export default function Home() {
     <main className="max-w-full space-y-[100px]">
       <div className="flex flex-col">
         <Hero />
+        sfuijhihio
 
         <About />
       </div>
